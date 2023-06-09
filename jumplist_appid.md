@@ -84,3 +84,50 @@
 |82|20200630|a55ed4fbb973aefb|Microsoft Teams|Microsoft Teams|[Multi-factor verification]|
 |83|20200630|c9ebd4306ca881b3|Powershell ISE|Powershell ISE|[Multi-factor verification]|
 |84|20200630|a4ca3035d10d9969|Snagit|Snagit|[Multi-factor verification]|
+|85|20200701|a8c43ef36da523b1|Microsoft Office 2003 - Word 32位|Microsoft Office 2003 - Word x86|C:\Program Files\Microsoft Office\Office11\WINWORD.EXE|
+|86|20200701|c1441ad09a3298e8|Microsoft Office 2003 - PowerPoint 32位|Microsoft Office 2003 - PowerPoint x86|C:\Program Files\Microsoft Office\Office11\POWERPNT.EXE|
+|87|20200701|75d01b5b7df0d177|Microsoft Office 2003 - Excel 32位|Microsoft Office 2003 - Excel x86|C:\Program Files\Microsoft Office\OFFICE11\EXCEL.ECE|
+|88|20200701|8b0ab10091521667|Ultra Edit 64位|Ultra Edit x64|C:\Program Files\UltraEdit\uedit64.exe|
+|89|20200701|a7bd71699cd38d1c|Microsoft Office 2010 - Word 32位|Microsoft Office 2010 - Word x86|C:\Program Files\Microsoft Office\Office14\WINWORD.EXE|
+|90|20200701|eb282ead62b4db87|Windows联系人|Microsoft Contacts|[Multi-factor verification]|
+|91|20200701|迅雷|Thunder|E:\Program Files\Thunder Network\Thunder\Program\Thunder.exe|
+|92|20200701|4cf6fd20161201d9|360安全卫士|360Safe|C:\Program Files\360\360safe\360Safe.exe|
+|93|20200701|7e7dd2ad5e001cfe|猎豹浏览器|LieBao Browser|[Multi-factor verification]|
+|94|20200701|9645f58513b1a821|Windows邮件|Windows Mail|[Multi-factor verification]|
+|95|20200701|ff103e2cc310d0d|Adobe Reader 11|Adobe Reader 11|C:\Program Files\Adobe\Reader 11.0\Reader\AcroRd32.exe|
+|96|20200701|631bf9274cb983cf|Microsoft Office 2007 - Word|Microsoft Office 2007 - Word|C:\Program Files\Office2007\WINWORD.EXE|
+|97|20200701|ce0b82327c94c959|Microsoft Office 2007 - Excel|Microsoft Office 2007 - Excel|C:\Program Files\Office2007\EXCEL.EXE|
+|98|20200701|df1ef4ff06b80043|Microsoft Office 2007 - PowerPoint|Microsoft Office 2007 - PowerPoint|C:\Program Files\Office2007\POWERPNT.EXE|
+|99|20200701|adecfb853d77462a|Microsoft Office 2007 - Word|Microsoft Office 2007 - Word|C:\Program Files\Microsoft Office\OFFICE12\WINWORD.EXE|
+|100|20200701|cdf30b95c55fd785|Microsoft Office 2007 - Excel|Microsoft Office 2007 - Excel|C:\Program Files\Microsoft Office\OFFICE12\EXCEL.EXE|
+|101|20200701|f5ac5390b9115fdb|Microsoft Office 2007 - PowerPoint|Microsoft Office 2007 - PowerPoint|C:\Program Files\Microsoft Office\OFFICE12\POWERPNT.EXE|
+|102|20200701|1814b0b4f82b5ce4|CCleaner|CCleaner|[Multi-factor verification]|
+|103|20200702|298a6b8701438fda|CAJViewer 7.2|CAJViewer 7.2|C:\Program Files (x86)\TTKN\CAJViewer 7.2\CAJVieweru.exe|
+|104|20200702|3e9850346f375d41|福昕PDF编辑器 32位|Foxit PhantomPDF x86|C:\Program Files (x86)\Foxit Software\Foxit PhantomPDF\FoxitPhantomPDF.exe|
+|105|20200703|9acffe0293563dd7|永中Office|YongZhong Office|C:\Program Files (x86)\Yozosoft\Yozo_Office\Yozo.exe|
+|106|20200703|83dd64e7fa560bd5|LibreOffice 电子表格|LibreOffice Calc|TheDocumentFoundation.LibreOffice.Calc|
+|107|20200703|7c2916afd6f116a6|LibreOffice 数据库|LibreOffice Base|TheDocumentFoundation.LibreOffice.Base|
+|108|20200703|f6fd5d99e2b6e178|LibreOffice 绘图|LibreOffice Draw|TheDocumentFoundation.LibreOffice.Draw|
+|109|20200703|ecd1a5e2c3af9c46|LibreOffice 演示文稿|LibreOffice Impress|TheDocumentFoundation.LibreOffice.Impress|
+|110|20200703|26753c97ea000ecd|LibreOffice 公式|LibreOffice Math|TheDocumentFoundation.LibreOffice.Math|
+|111|20200703|4d939776340f1d18|OpenOffice 文本文档|OpenOffice Writer|C:\Program Files (x86)\OpenOffice 4\program\swriter.exe|
+|112|20200703|3df22b7648cec4c1|TeamViewer|TeamViewer|C:\Program Files (x86)\OpenOffice 4\program\swriter.exe|
+|113|20200703|1e739fc052a22bd0|Photoshop CC 2018|Photoshop CC 2018|C:\Program Files (x86)\Adobe\Adobe Photoshop CC 2018 (32 Bit)\Photoshop.exe|
+|114|20200703|8a461f82e9eb4102|福昕阅读器|Foxit Reader|C:\Program Files (x86)\Foxit Software\Foxit Reader\FoxitReader.exe|
+|115|20200703|a14b2cd633127eee|OpenOffice 绘图|OpenOffice Draw|C:\Program Files (x86)\OpenOffice 4\program\sdraw.exe|
+|116|20200703|e7f34dee82980c52|OpenOffice 电子表格|OpenOffice Calc|C:\Program Files (x86)\OpenOffice 4\program\scalc.exe|
+|117|20200703|daf3c067c54a3bc5|OpenOffice 公式|OpenOffice Math|C:\Program Files (x86)\OpenOffice 4\program\smath.exe|
+|118|20200703|c4836b7a02504671|OpenOffice 数据库|OpenOffice Base|C:\Program Files (x86)\OpenOffice 4\program\sbase.exe|
+|119|20200703|79ccae3bdd15c6f0|OpenOffice 演示文稿|OpenOffice Impress|C:\Program Files (x86)\OpenOffice 4\program\simpress.exe|
+|120|20200705|4ecef212cea6af6c|Microsoft Office 2007 - Access|Microsoft Office 2007 - Access|C:\Program Files\Microsoft Office\Office12\MSACCESS.EXE|
+|121|20200705|290532160612e071|WinRAR 32位|WinRAR x86|C:\Program Files\WinRAR\WinRAR.exe|
+|122|20200707|a4a03277baa26ea7|X-Shell 6|X-Shell 6|C:\Program Files (x86)\NetSarang\Xshell 6\Xshell.exe|
+|123|20200713|88fc9ed3db7de209|PotPlayer 32位|PotPlayer x86|C:\Program Files\DAUM\PotPlayer\PotPlayerMini.exe|
+|124|20200713|95597e2f40dbd9aa|PotPlayer 64位|PotPlayer x64|C:\Program Files\DAUM\PotPlayer\PotPlayerMini64.exe|
+|125|20200713|42db07f643d3d102|格式工厂播放器|FormatPlayer|C:\Program Files (x86)\FormatFactory\FormatPlayer.exe|
+|126|20200713|96792ee42aa5db04|Typora|Typora|C:\Program Files (x86)\Typora\bin\typora.exe|
+|127|20200713|637bd50442819c2d|Typora|Typora|abnerworks.Typora|
+|128|20200713|fb37ddccc7777390|PyCharm Community Edition 2020.1.3|PyCharm Community Edition 2020.1.3|C:\Program Files\JetBrains\PyCharm Community Edition 2020.1.3\bin\pycharm64.exe|
+|129|20200714|e8f9226a1e1de4c7|XMP.exe|迅雷播放组件|C:\Program Files (x86)\Thunder Network\Thunder\Program\XMP\XMP.exe|
+|130|20200715|c4c7150c54b2d709|FastPictureViewer|FastPictureViewer|C:\Program Files (x86)\FastPictureViewer\FastPictureViewer.exe|
+|131|20200715|34d69006f997329|FastPictureViewer|FastPictureViewer|C:\Program Files (x86)\FastPictureViewer\FastPictureViewer.exe|
